@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BookingTenda</string>
+    <string-array name="Tenda">
+        <item>Tenda Biasa</item>
+        <item>Tenda Pernikahan</item>
+        <item>Tenda dan Kursi</item>
+        <item>Paket Lengkap Tenda</item>
+        <item>Tenda Camping</item>
+    </string-array>
+</resources>
